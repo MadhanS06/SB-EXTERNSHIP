@@ -10,5 +10,5 @@
 
 
 <a href="https://universe.roboflow.com/abby/cars-ggvem">
-    <img src="https://app.roboflow.com/images/download-dataset-badge.svg"></img>
+    <img src="https://app.roboflow.com/images/download-dataset-badge.svg" style="max-width: 20px; max-height: 20px;"></img>
 </a>
