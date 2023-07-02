@@ -3,7 +3,7 @@
 # PARKING GUIDANCE SYSTEM
 
 <a href="https://youtu.be/65-c2EMJJe0">
-    <img src="https://e7.pngegg.com/pngimages/208/269/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png"></img>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9bz7pAntT192xKO5nQ4I3BzBhrV3VuxtSnA&usqp=CAU"></img>
 </a>
 
 
